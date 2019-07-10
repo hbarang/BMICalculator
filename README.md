@@ -1,2 +1,0 @@
-# BMICalculator
-Created with CodeSandbox
